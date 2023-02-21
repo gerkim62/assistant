@@ -1,0 +1,12 @@
+.hide{
+  display:none !important;
+  background: red;
+}
+
+b{
+  font-weight: bolder;
+}
+
+i{
+  font-style: italic;
+}
