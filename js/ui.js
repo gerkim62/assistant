@@ -12,3 +12,5 @@ export function displayTimetableUploadUI() {
   hide(studentAssistantUI)
   hide(spinner)
 }
+
+hide(spinner)
